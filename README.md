@@ -4,9 +4,9 @@ This repository will guide you to learn Git with help of resources and links.
 Here are the four different types of ways from which you can learn any technology.
 
 1. [Videos](https://github.com/dvkrockz/Git-Tutorials#videos)
-2. [Professional services](https://github.com/dvkrockz/Git-Tutorials#videos): Books/videos which are paid services
-3. [Books](https://github.com/dvkrockz/Git-Tutorials#videos)
-4. [Blogs](https://github.com/dvkrockz/Git-Tutorials#videos)
+2. [Professional services](https://github.com/dvkrockz/Git-Tutorials#professional-services): Books/videos which are paid services
+3. [Books](https://github.com/dvkrockz/Git-Tutorials#books)
+4. [Blogs](https://github.com/dvkrockz/Git-Tutorials#blogs)
 
 you can select any from the type and start learning and add them into your bucket. 
 
