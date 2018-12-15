@@ -4,8 +4,8 @@ This repository will guide you to learn Git with help of resources and links.
 
 ### Videos:
 
-https://www.pluralsight.com/courses/how-git-works
-https://www.youtube.com/GitHubGuides
+* https://www.pluralsight.com/courses/how-git-works
+* https://www.youtube.com/GitHubGuides
 
 ### Professional services:
 
