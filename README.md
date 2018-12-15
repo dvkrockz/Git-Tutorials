@@ -9,12 +9,12 @@ This repository will guide you to learn Git with help of resources and links.
 
 ### Professional services:
 
-https://services.github.com/
+* https://services.github.com/
 
 ### Books:
 
-https://git-scm.com/book/en/v2
+* https://git-scm.com/book/en/v2
 
 ### Blogs:
 
-https://rogerdudler.github.io/git-guide/
+* https://rogerdudler.github.io/git-guide/
